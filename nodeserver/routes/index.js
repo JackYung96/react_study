@@ -7,7 +7,8 @@ router.get('/', function(req, res, next) {
 });
 
 
-
+router.use('/users',require('./users'))
+router.use('/comment',require('./comment'))
 
 
 

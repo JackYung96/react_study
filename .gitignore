@@ -1,2 +1,7 @@
 #intellij
 .idea
+
+# node-modules
+react-tutorial/node_modules
+react-ts-template/node_modules
+next-tutorial/node_modules

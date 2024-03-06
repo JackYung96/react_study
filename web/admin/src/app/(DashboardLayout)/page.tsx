@@ -11,7 +11,7 @@ import MonthlyEarnings from '@/app/(DashboardLayout)/components/dashboard/Monthl
 
 const Dashboard = () => {
   return (
-    <PageContainer title="Dashboard" description="this is Dashboard">
+    <PageContainer title="Admin Dashboard" description="광전IT 뉴스레터 플랫폼">
       <Box>
         <Grid container spacing={3}>
           <Grid item xs={12} lg={8}>
